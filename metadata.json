@@ -1,0 +1,6 @@
+{
+  "name": "Sahayata - Emergency & Humanitarian Help Network",
+  "description": "A modern, transparent, mobile-first emergency support platform connecting people facing urgent crises with compassionate verified donors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
